@@ -1,0 +1,15 @@
+setuptools
+pyinstaller
+urllib3
+colorama
+psutil
+requests
+deep-translator
+bcrypt
+beautifulsoup4
+whois
+cryptography
+discord.py
+discord
+Pillow
+opencv-python
